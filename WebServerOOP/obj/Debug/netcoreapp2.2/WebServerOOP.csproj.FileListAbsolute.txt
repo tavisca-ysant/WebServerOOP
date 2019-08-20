@@ -1,0 +1,11 @@
+c:\users\ysant\source\repos\WebServerOOP\WebServerOOP\bin\Debug\netcoreapp2.2\WebServerOOP.deps.json
+c:\users\ysant\source\repos\WebServerOOP\WebServerOOP\bin\Debug\netcoreapp2.2\WebServerOOP.runtimeconfig.json
+c:\users\ysant\source\repos\WebServerOOP\WebServerOOP\bin\Debug\netcoreapp2.2\WebServerOOP.runtimeconfig.dev.json
+c:\users\ysant\source\repos\WebServerOOP\WebServerOOP\bin\Debug\netcoreapp2.2\WebServerOOP.dll
+c:\users\ysant\source\repos\WebServerOOP\WebServerOOP\bin\Debug\netcoreapp2.2\WebServerOOP.pdb
+c:\users\ysant\source\repos\WebServerOOP\WebServerOOP\obj\Debug\netcoreapp2.2\WebServerOOP.csprojResolveAssemblyReference.cache
+c:\users\ysant\source\repos\WebServerOOP\WebServerOOP\obj\Debug\netcoreapp2.2\WebServerOOP.csproj.CoreCompileInputs.cache
+c:\users\ysant\source\repos\WebServerOOP\WebServerOOP\obj\Debug\netcoreapp2.2\WebServerOOP.AssemblyInfoInputs.cache
+c:\users\ysant\source\repos\WebServerOOP\WebServerOOP\obj\Debug\netcoreapp2.2\WebServerOOP.AssemblyInfo.cs
+c:\users\ysant\source\repos\WebServerOOP\WebServerOOP\obj\Debug\netcoreapp2.2\WebServerOOP.dll
+c:\users\ysant\source\repos\WebServerOOP\WebServerOOP\obj\Debug\netcoreapp2.2\WebServerOOP.pdb
